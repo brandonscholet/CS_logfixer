@@ -1,9 +1,9 @@
 # CS_logfixer
 Stitch back together long output on Cobalt Strike
 
-For stiching back together output in Cs logs without splitting it up.
+For stiching back together output in CS logs without splitting it up.
 
-Who needs to drop output to disk anyway? (and then risk getting caught, and then download, and then sync) just send the long output to the temrinal and use this to see it in it's pristine form (looking at you bloodhound json collect)
+Who needs to drop output to disk anyway? (and then risk getting caught, and then download, and then sync).  Just send the long output to the terminal and use this to see it in its pristine form (looking at you BloodHound json collect)
 
 
 ## In
